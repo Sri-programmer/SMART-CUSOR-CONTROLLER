@@ -1,0 +1,4 @@
+OpenCv
+mediapipe
+pyautogui
+Inorder to download these requirements, You are instructed to install them in the command prompt using "pip install 'required module'"
